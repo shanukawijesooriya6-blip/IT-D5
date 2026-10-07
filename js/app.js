@@ -7,7 +7,14 @@
 
 // console.log( typeof name);
 
-let x = 10;
-let y = "10";
+// let x = 10;
+// let y = "10";
 
-console.log(x == y); // true
+// console.log(x == y); // true
+
+// logical operators
+if (true && true) {
+    console.log("both are true");
+}else{
+    console.log("False");
+}
