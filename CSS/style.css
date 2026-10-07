@@ -1,0 +1,19 @@
+.pg{
+
+    text-align: center;
+}
+
+/* *{
+    background-color: antiquewhite;
+} */
+.ph{
+    padding: 20px;
+    padding-right: 200px;
+
+}
+
+.qp{
+    border: 5px solid black;
+    background-color: rgb(29, 211, 224);
+    margin: 100px;
+}
